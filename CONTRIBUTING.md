@@ -1,8 +1,25 @@
+&lt;pre&gt;&lt;font color="lightgreen"&gt;
+███████╗██╗██████╗ ██████╗  ██████╗ ██╗    ██╗███╗   ██╗
+██╔════╝██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║████╗  ██║
+█████╗  ██║██████╔╝██║  ██║██║   ██║██║ █╗ ██║██╔██╗ ██║
+██╔══╝  ██║██╔══██╗██║  ██║██║   ██║██║███╗██║██║╚██╗██║
+██║     ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝██║ ╚████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝
+&lt;/font&gt;&lt;/pre&gt;
+
+# FIRDOWN X JSONRAWFILES
+
+&gt; **A collaboration between FIRDOWN and JSONRAWFILES** — curated OSINT & recon tooling.
+
+---
+
 # 🤝 Contributing
 
 Thanks for helping keep this list alive — it's one person plus whoever pitches in, so good PRs genuinely matter.
 
 A few rules so your PR doesn't stall or get closed:
+
+**Huge thanks to F34RD0WN for the collaboration with rawfilejson** — contributions like this keep the list current and alive.
 
 ## Adding a tool
 
@@ -29,7 +46,3 @@ Open an issue — takes a minute and it's genuinely helpful.
 ## Not what this repo is for
 
 Please don't open issues asking how to **find, track, or identify a specific person** — that's not something I'll help with here, and those get closed.
-
----
-
-By contributing you agree your addition is for **authorized, educational security research** — see the [disclaimer](README.md#%EF%B8%8F-legal-disclaimer). Everything here ships under the [MIT License](LICENSE).
